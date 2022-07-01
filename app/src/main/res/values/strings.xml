@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Github User App 2</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+
+    <string name="repositories">Repositories</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="no_display">Please fill the search column</string>
+    <string name="search_text">Search username…</string>
+    <string name="btn_search">btn_search</string>
+    <string name="content_desc">User Avatar</string>
+    <string name="tab_layout">Tab Layout</string>
+    <string name="before_show">Loading…</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite_desc">Add to Favorite</string>
+    <string name="msg_success_add_fav">Success add to Favorite!</string>
+    <string name="msg_success_delete_fav">Success delete from Favorite!</string>
+</resources>
